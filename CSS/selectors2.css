@@ -1,0 +1,19 @@
+/* Combinators Selectors */
+
+
+div~section{
+    background-color: aqua;
+    
+}
+
+/* div>p{
+    background-color: red;
+}
+
+div+p{
+    background-color: palegoldenrod;
+}
+
+div~p{
+    color:blueviolet;
+} */
