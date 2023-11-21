@@ -1,0 +1,26 @@
+/* psuedo-element selecors */
+
+h1::after{
+    content:" Java";
+}
+
+ h1::before{
+    content:"Hey,"
+}
+
+ h1::first-letter{
+    color: darkcyan;
+}
+
+h1::first-line{
+    color:red;
+}
+
+h1::marker{
+    content:"";
+}
+
+h1::selection{
+    background-color: blueviolet;
+    color:deeppink;
+} 

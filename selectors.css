@@ -1,0 +1,17 @@
+/* Simple Selectors */
+th{
+    background-color: rgb(255, 51, 0);
+    color: white;
+}
+
+.time{
+    color: orange;
+}
+
+*{
+    background-color: aqua;
+}
+
+#r1{
+    color: rgb(0, 153, 255);
+}

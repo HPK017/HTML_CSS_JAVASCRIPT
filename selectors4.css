@@ -1,0 +1,31 @@
+/* Psuedo class(Dynamic) */
+
+a:link{
+    color: pink;
+}
+
+a:visited{
+    color: green;
+}
+
+a:hover{
+    color:yellow;
+}
+
+a:active{
+    color: aqua;
+}
+
+/* psuedo class (structural) */
+p:first-child{
+    color:blue;
+}
+
+p:last-child{
+    color:red;
+}
+
+p:nth-child(even){
+    background-color: aquamarine;
+    color:red;
+}
